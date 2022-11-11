@@ -1,5 +1,5 @@
 Student name: Laurens de Groot
 Student number: 697237
 Student class: INFVT1d
-https://lawrencedeveloper.github.io/
-https://github.com/LawrenceDeveloper/WebmarkupAssessment/
+URL student GitHub website: https://lawrencedeveloper.github.io/
+URL student GitHub repository: https://github.com/LawrenceDeveloper/WebmarkupAssessment/
